@@ -21,7 +21,7 @@
 			class="sy-header__link" href="" id="msstrylink"
 			style="color: white; font-size: 1rem; font-weight: 700; font-family: Helvetica !important;"><span
 			style="color: white; font-size: 1rem; font-weight: 500; font-family: Helvetica !important;">Hello
-				World I am a test app , Deployed by ICDS</span></a> </header>
+				World I am a test app v1.0.0.1, Deployed by ICDS</span></a> </header>
 
 		<!-- alert box for custom workload node red image pop up -->
 		<div id="alert_security_images_alert" style="box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.15) !important;display:none;">
